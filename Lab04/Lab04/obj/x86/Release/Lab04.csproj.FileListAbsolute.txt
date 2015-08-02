@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\CSharpGameProgramming\Lab04\Lab04\bin\Release\Lab04.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\CSharpGameProgramming\Lab04\Lab04\bin\Release\Lab04.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\CSharpGameProgramming\Lab04\Lab04\obj\x86\Release\Lab04.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\CSharpGameProgramming\Lab04\Lab04\obj\x86\Release\Lab04.pdb
