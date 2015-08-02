@@ -1,0 +1,4 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Lab03\bin\Release\Lab03.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Lab03\bin\Release\Lab03.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Lab03\obj\x86\Release\Lab03.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Lab03\obj\x86\Release\Lab03.pdb
