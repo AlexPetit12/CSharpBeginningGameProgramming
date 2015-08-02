@@ -1,0 +1,4 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Assignment01\bin\Release\Assignment01.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Assignment01\bin\Release\Assignment01.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Assignment01\obj\x86\Release\Assignment01.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Assignment01\obj\x86\Release\Assignment01.pdb
